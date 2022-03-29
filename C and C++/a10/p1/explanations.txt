@@ -1,0 +1,17 @@
+/* 
+    CH-230-A
+    a10_p1
+    explanations.txt
+    Sandro Gakharia
+    s.gakharia@jacobs-university.de
+*/
+
+a)
+    By commenting out using namespace std we are left with many standard
+    functions without the namespace, including cout, cin, endl, string.
+    Hence, to avoid errors we need to type std::cout, std::cin, etc.
+
+b)
+    By commenting out Critter:: the compiler is left confused, because
+    it doesn't understand where the function is coming from. In this case,
+    the function is inside the critter class, so we need to specify that.
