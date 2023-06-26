@@ -1,1 +1,1 @@
-Jacobs University Bremen Coursework (not full)
+Jacobs University Bremen Coursework (incomplete)
